@@ -21,7 +21,11 @@ _Internship Project
 │     └── 🖼️ Sample_Dashboard_picture.png     
 │
 ├── 📂 Tasks
+│     ├── 📓 Week_1_Task.ipynb              
+│     ├── 📓 Week_2_Task.ipynb
 │     ├── 📓 Week_3_Task.ipynb              
+│     ├── 📓 Week_4_Task.ipynb
+│     ├── 📓 Week_5_Task.ipynb              
 │     └── 📓 Week_6_Task.ipynb             
 └── 📄 LICENSE                                
 
