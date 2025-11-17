@@ -1,0 +1,101 @@
+# 📊 Internship Project – Data Analysis & Dashboard Reporting
+
+
+![Dashboard Screenshot](assets/dashboard_screenshot.png)
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
+  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20Power%20BI-blue" />
+  <img src="https://img.shields.io/badge/Notebook-Jupyter-orange" />
+  <img src="https://img.shields.io/badge/Language-Python%203.10-yellow" />
+</p>
+
+---
+
+## 🚀 Project Overview
+
+This repository contains my internship project, where I performed **data cleaning**, **exploratory data analysis (EDA)**, and created an **interactive Power BI dashboard**.  
+The goal of this project is to derive meaningful insights from the Indian Kids Screen Time Analysis using Python and Power BI.
+
+---
+
+## 📁 Project Structure
+
+```
+📦 Indian_Kids_Screen_Time_Analysis
+_Internship Project
+│
+├── 📂 Final_Dashboard
+│     ├── 📄 Cleaned_Dataset.csv              
+│     ├── 📊 Internship Project.pbix         
+│     └── 🖼️ Sample_Dashboard_picture.png     
+│
+├── 📂 Tasks
+│     ├── 📓 Week_3_Task.ipynb              
+│     └── 📓 Week_6_Task.ipynb             
+└── 📄 LICENSE                                
+
+---
+
+## 🛠 Tools & Technologies Used
+
+| Category | Tools |
+|---------|--------|
+| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| **Analytics** | Power BI |
+| **Data Handling** | DAX, Power Query |
+| **Environment** | Jupyter Notebook / Google Colab |
+
+---
+
+## 📈 Features
+
+- ✔ Clean data ready for analytics  
+- ✔ Detailed Exploratory Data Analysis  
+- ✔ Trend visualizations and summary insights  
+- ✔ Interactive Power BI dashboard  
+- ✔ Professional documentation  
+
+---
+
+> Replace the placeholders in the `assets/` folder with your actual images.
+
+### 🔹 Dashboard Overview  
+![Dashboard Screenshot](assets/dashboard_screenshot.png)
+
+---
+
+## 🚀 How to Run
+
+### **Clone the repository**
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+### **Run the Jupyter Notebooks**
+Open the `.ipynb` files in Jupyter Notebook or Google Colab.
+
+### **Open the Power BI Dashboard**
+Use **Power BI Desktop** to open:
+```
+Internship Project.pbix
+```
+
+---
+
+## 📌 Future Enhancements
+
+- Integrate forecasting  
+- Add automated data refresh  
+- Add clustering or ML models  
+
+---
+
+## 👤 Author
+
+- **Name:** Vimali Vincy M 
+- **Email:** vincymicheal123@gmail.com
+- **Internship:** Infosys – Data Visualization
+- **GitHub:** https://github.com/Vimali23vincy
+
