@@ -50,8 +50,7 @@ _Internship Project
 ---
 
 ### 🔹 Dashboard Overview  
-![Dashbard Screenshot](<img width="1417" height="799" alt="Sample_Dashboard_picture" src="https://github.com/user-attachments/assets/728e6f94-9799-4e9b-bbac-9f6fd512ed96" />
-/dashboard_screenshot.png)
+(<img width="1417" height="799" alt="Sample_Dashboard_picture" src="https://github.com/user-attachments/assets/728e6f94-9799-4e9b-bbac-9f6fd512ed96" />)
 
 ---
 
